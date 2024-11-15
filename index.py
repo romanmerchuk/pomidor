@@ -1,2 +1,2 @@
-print("hello world")
-print("jgyu")
+for i in range(10):
+    print('Hello')
